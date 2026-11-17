@@ -67,4 +67,4 @@ Windows Server 2022 and Windows 11 domain lab covering:
 
 ---
 
-*All projects are based on hands-on lab environments and documented configurations.*
+
